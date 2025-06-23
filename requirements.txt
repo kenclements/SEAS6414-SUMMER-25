@@ -21,3 +21,5 @@ sympy
 statsmodels
 seaborn
 imblearn
+gensim
+scikit-posthocs
